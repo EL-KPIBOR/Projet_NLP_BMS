@@ -1,0 +1,57 @@
+# ══════════════════════════════════════════════════════
+#  .gitignore — Pipeline NLP ISSEA
+# ══════════════════════════════════════════════════════
+
+# ── Python ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── Environnements virtuels ──────────────────────────
+venv/
+env/
+.venv/
+.env/
+
+# ── Jupyter ──────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Données sensibles / volumineuses ─────────────────
+# Ne pas versionner les PDF des Lois de Finances
+Loi_Finance_Cameroun_2024.pdf
+Loi_Finance_Cameroun_2025.pdf
+*.pdf
+
+# Résultats (régénérables via le pipeline)
+outputs/
+resultats_pipeline_complet/
+*.csv
+!data/demo_articles.csv
+
+# ── IDE ──────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── OS ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*~
+
+# ── Models HuggingFace (trop lourds) ─────────────────
+*.bin
+*.safetensors
+models/
+
+# ── Logs ─────────────────────────────────────────────
+*.log
+logs/
