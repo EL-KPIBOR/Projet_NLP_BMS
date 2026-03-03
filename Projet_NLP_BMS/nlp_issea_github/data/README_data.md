@@ -38,3 +38,5 @@ MODE = "PDF_REELS"  # au lieu de "DEMO"
 - Montants budgétaires (Mds FCFA)
 - Piliers SND30 pré-annotés (gold standard partiel)
 - Distances sémantiques pré-calculées
+
+- NB: Nous les avons pas ajouter pour ne pas remplir notre github avec des fichiers volumineux

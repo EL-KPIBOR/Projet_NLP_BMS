@@ -280,13 +280,16 @@ Le tableau de bord interactif comprend **7 vues** :
 
 ## 👥 Auteurs
 
-Projet réalisé dans le cadre du cours **Intelligence Artificielle et Finances Publiques**  
+Projet réalisé dans le cadre du cours **Natural Langage Processing (NLP)** 
+par:
+ **BAMOGO KARIM**
+**MOYO GUILAINE**
+**SOME KPIBARGNIN**
+Sous la suppervision de **MBIA NDI Marie Thérèse**
 **ISSEA — Institut Sous-régional de Statistique et d'Économie Appliquée**  
 Yaoundé, Cameroun · 2025-2026
 
 ---
 
-## 📄 Licence
-
-Ce projet est sous licence [MIT](LICENSE).  
+## 📄 Licence  
 Les données budgétaires sont issues de documents officiels du MINFI (domaine public).

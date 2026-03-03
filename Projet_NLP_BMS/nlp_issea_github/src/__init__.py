@@ -4,4 +4,4 @@ ISSEA · ISE3-DS · 2025-2026
 """
 
 __version__ = "1.0.0"
-__author__  = "ISSEA ISE3-DS"
+__author__  = "BAMOGO_MOYO_SOME"
