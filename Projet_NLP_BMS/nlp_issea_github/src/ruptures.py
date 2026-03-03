@@ -1,7 +1,7 @@
 """
 ruptures.py
 ══════════════════════════════════════════════════════════════════════════════
-Détection des Ruptures de Discours — Pipeline NLP ISSEA
+Détection des Ruptures de Discours — Pipeline NLP
 ══════════════════════════════════════════════════════════════════════════════
 
 Implémente le pipeline complet d'audit sémantique :

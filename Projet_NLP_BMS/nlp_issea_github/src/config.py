@@ -2,7 +2,7 @@
 config.py
 ══════════════════════════════════════════════════════════════════════════════
 Configuration Globale — Pipeline NLP Audit Sémantique
-Loi de Finances Cameroun 2024-2025 | ISSEA · ISE3-DS
+Loi de Finances Cameroun 2024-2025 | ISSEA · ISE3-DSM
 ══════════════════════════════════════════════════════════════════════════════
 
 Ce module centralise toutes les constantes partagées entre les trois parties

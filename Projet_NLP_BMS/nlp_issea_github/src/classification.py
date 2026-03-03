@@ -1,7 +1,7 @@
 """
 classification.py
 ══════════════════════════════════════════════════════════════════════════════
-Classification Zero-Shot SND30 — Pipeline NLP ISSEA
+Classification Zero-Shot SND30 — Pipeline NLP
 ══════════════════════════════════════════════════════════════════════════════
 
 Aligne automatiquement les articles budgétaires sur les 4 piliers SND30

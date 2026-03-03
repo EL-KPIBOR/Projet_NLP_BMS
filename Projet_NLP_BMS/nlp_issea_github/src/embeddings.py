@@ -1,7 +1,7 @@
 """
 embeddings.py
 ══════════════════════════════════════════════════════════════════════════════
-Génération d'Embeddings — Pipeline NLP ISSEA
+Génération d'Embeddings — Pipeline NLP
 ══════════════════════════════════════════════════════════════════════════════
 
 Détection automatique du backend disponible :

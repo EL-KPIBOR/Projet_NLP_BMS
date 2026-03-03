@@ -1,7 +1,7 @@
 """
 distances.py
 ══════════════════════════════════════════════════════════════════════════════
-Calcul des Distances Sémantiques Enrichies — Pipeline NLP ISSEA
+Calcul des Distances Sémantiques Enrichies — Pipeline NLP
 ══════════════════════════════════════════════════════════════════════════════
 
 Implémente trois métriques de distance et le topic drift LDA

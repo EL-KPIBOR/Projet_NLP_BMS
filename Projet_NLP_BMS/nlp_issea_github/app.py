@@ -1,8 +1,8 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║   BAROMÈTRE DE GLISSEMENT SÉMANTIQUE                                       ║
-║   Dashboard NLP · Loi de Finances Cameroun 2024 → 2025/2026               ║
-║   ISSEA · ISE3-DS · 2025-2026                                              ║
+║   Dashboard NLP · Loi de Finances Cameroun 2024 → 2025              ║
+║   ISSEA · ISE3-DSM · 2025-2026                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
 Lancer :
